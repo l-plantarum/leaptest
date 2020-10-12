@@ -1,1 +1,1 @@
-# leaptest
+D-WaveのLeapを触ってみる
